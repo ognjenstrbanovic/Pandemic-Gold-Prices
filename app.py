@@ -1,5 +1,5 @@
 from flask import Flask, render_template, jsonify, redirect, url_for, request
-from dao.database import getLatest, getRangeDowData, getMonthlyDeathsData
+from DataAccessObject.database import getLatest, getRangeDowData, getMonthlyDeathsData
 from load_data import load
 from fredapi import Fred
 
