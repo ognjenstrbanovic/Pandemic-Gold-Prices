@@ -1,6 +1,6 @@
 # pandemicgoldprices
 ## ***Welcome to Ognjen's G.S. Analytics Group Project 2 README!***  
-The question that we wanted to answer in a statistical manner was: "*How will the COVID-19 pandemic influence the price of gold in relation to the Dow Jones Industrial Average?*"  
+The question that we wanted to answer in a statistical manner was: "*How will the COVID-19 pandemic impact the Dow Jones Industrial Average price to gold price ratio?*"  
 The way that we wanted to go about this was to study the four largest preceding pandemics. We split up the analysis and visualizations as follows:
 - 1918–1920: Spanish Flu (H1N1) - Ognjen S.  
 - 1957–1958: Asian Flu (H2N2) - Tyler N.  
