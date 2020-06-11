@@ -16,6 +16,5 @@ To get it working:
 2) visit https://research.stlouisfed.org/useraccount/apikey and get yourself an API key  
 3) in the first cell of the notebook, add your key into the "my_key" variable between the inverted commas; so "my_key = ''", "fred = Fred(api_key=my_key)", and finally restart and run the notebook
 
-![Spanish Flu Page Part 1](https://github.com/ognjenstrbanovic/pandemicgoldprices/blob/master/Ognjen%20Strbanovic/Spanish%20Flu%20Page%201:2.jpg?raw=true)  
-
-![Spanish Flu Page Part 2](https://github.com/ognjenstrbanovic/pandemicgoldprices/blob/master/Ognjen%20Strbanovic/Spanish%20Flu%20Page%202:2.jpg?raw=true)  
+![Spanish Flu Page Part 1](https://github.com/ognjenstrbanovic/pandemicgoldprices/blob/master/Ognjen%20Strbanovic/Spanish%20Flu%20Page%201:2.jpg?raw=true)
+![Spanish Flu Page Part 2](https://github.com/ognjenstrbanovic/pandemicgoldprices/blob/master/Ognjen%20Strbanovic/Spanish%20Flu%20Page%202:2.jpg?raw=true)
