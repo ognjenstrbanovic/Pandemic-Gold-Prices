@@ -1,6 +1,6 @@
 # pandemicgoldprices
 ## ***Welcome to the G.S. Analytics Group's Project README!***  
-We have compiled data, analyzed it, and presented it in order to answer the following (statistical) question: "*How will the COVID-19 pandemic influence the price of gold in relation to the Dow Jones Industrial Average?*"  
+The question that we wanted to answer - in a statistical manner - was the following: "*How will the COVID-19 pandemic influence the price of gold in relation to the Dow Jones Industrial Average?*"  
 
 In order to answer this, we 
 List of pandemics to be studied:  
