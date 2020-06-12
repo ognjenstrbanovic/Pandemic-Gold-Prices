@@ -1,4 +1,4 @@
-# *Welcome to Ognjen's Project 2 README!*
+# *Welcome to Ogi's Project 2 README!*
 Hello! Since I forked the original repository from our group's Tech Lead, Sean W., I wanted to use this forked repo as a description of what I did as part of the "G.S. Analytics" group.  
 ### Front-End
 My biggest contribution was the following page:  
@@ -12,4 +12,12 @@ I also created my own route in the app.py file so that when I run the Flask serv
 
 ![app.py screen shot](https://github.com/ognjenstrbanovic/pandemicgoldprices/blob/master/Ognjen%20Strbanovic/app.py%20screen%20shot.jpg?raw=true)  
 
-### Research
+### Other
+I created the hypothesis for our group as well; it ended up that we could not reject the 'null hypothesis'...  
+
+*Null Hypothesis: The statistical correlation between the rise of a global pandemic and an increase in gold prices is less than or equal to zero.  
+Alternative Hypothesis: The statistical correlation between the rise of a global pandemic and an increase in gold prices is greater than zero.*  
+
+I also facilitated the analysis of others with a short list of confounding variables for each pandemic. But more importantly, I was a constant facilitator of communication with the group in our Slack channel; and several times, I helped fellow group members with their work over Zoom sessions, particularly with the front-end stack and version control (Git).  
+
+Thank you for your time in reading this, that is all! Until next time... 🙂
