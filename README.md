@@ -20,4 +20,6 @@ Alternative Hypothesis: The statistical correlation between the rise of a global
 
 I also facilitated the analysis of others with a short list of confounding variables for each pandemic. But more importantly, I was a constant facilitator of communication with the group in our Slack channel; and several times, I helped fellow group members with their work over Zoom sessions, particularly with the front-end stack and version control (Git).  
 
+Lastly, I had the most commits on the team behind Sean, our designated Tech Lead. I became very comfortable with Git branches after this project.  
+
 Thank you for your time in reading this, that is all! Until next time... 🙂
