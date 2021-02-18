@@ -4,7 +4,9 @@
   <img src="https://github.com/ognjenstrbanovic/Pandemic-Gold-Prices/blob/master/Ognjen%20Strbanovic/Goldfinger.jpg" />
   <figcaption>Please say hello to: Goldfinger!</figcaption>
 </figure>
+
 <br />
+
 Hello! Since I forked the original repository from our group's Tech Lead, Sean W., I wanted to use this forked repo as a description of what I did as part of the "G.S. Analytics" group.  
 ### Front-End
 My biggest contribution was the following page:  
