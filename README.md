@@ -1,6 +1,10 @@
 # *Welcome to Ogi's Project 2 README!*
 
-![Goldfinger](https://github.com/ognjenstrbanovic/Pandemic-Gold-Prices/blob/master/Ognjen%20Strbanovic/Goldfinger.jpg)
+<figure>
+  <img src="https://github.com/ognjenstrbanovic/Pandemic-Gold-Prices/blob/master/Ognjen%20Strbanovic/Goldfinger.jpg" />
+  <figcaption>Goldfinger</figcaption>
+</figure>
+
 
 Hello! Since I forked the original repository from our group's Tech Lead, Sean W., I wanted to use this forked repo as a description of what I did as part of the "G.S. Analytics" group.  
 ### Front-End
